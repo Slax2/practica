@@ -14,10 +14,9 @@
     z-index: 50;
     top: 0;
     width: 100%;
+    background: rgba(5, 38, 107, 0.75);
 }
-.header{
-    background: rgba(5, 38, 107, 0.75)
-}
+
 .header__nav{
     max-width: 1024px;
     max-height: 3rem;
