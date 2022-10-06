@@ -81,7 +81,7 @@ figure{
 /* SECTION FOOTER */
 .footer{
     background: rgba(1, 8, 22, 0.7);
-    width: 100%;
+    width: 100vw;
     text-align: center;
     display: flex;
     flex-direction: column;
